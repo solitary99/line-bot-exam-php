@@ -1,3 +1,4 @@
+<a href="<?php $_SERVER['PHP_SELF']; ?>">Recargar</a>
 <?php
 
 
